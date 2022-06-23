@@ -1,4 +1,4 @@
-# Awanish-tech-blog.github.io
+# Vivek-tech-blog.github.io
 This is a website where everyone can share their thoughts on the different technology......
 
 # Purpose
